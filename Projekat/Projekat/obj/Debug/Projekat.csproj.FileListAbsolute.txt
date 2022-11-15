@@ -1,0 +1,8 @@
+C:\Users\larap\OneDrive\Desktop\faks\III godina\Osnovi informacionih sistema i softverskog inzenjerstva\vezbe\Projekat\Projekat\obj\Debug\Projekat.csproj.AssemblyReference.cache
+C:\Users\larap\OneDrive\Desktop\faks\III godina\Osnovi informacionih sistema i softverskog inzenjerstva\vezbe\Projekat\Projekat\obj\Debug\Projekat.csproj.SuggestedBindingRedirects.cache
+C:\Users\larap\OneDrive\Desktop\faks\III godina\Osnovi informacionih sistema i softverskog inzenjerstva\vezbe\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\larap\OneDrive\Desktop\faks\III godina\Osnovi informacionih sistema i softverskog inzenjerstva\vezbe\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\larap\OneDrive\Desktop\faks\III godina\Osnovi informacionih sistema i softverskog inzenjerstva\vezbe\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\larap\OneDrive\Desktop\faks\III godina\Osnovi informacionih sistema i softverskog inzenjerstva\vezbe\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\larap\OneDrive\Desktop\faks\III godina\Osnovi informacionih sistema i softverskog inzenjerstva\vezbe\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\larap\OneDrive\Desktop\faks\III godina\Osnovi informacionih sistema i softverskog inzenjerstva\vezbe\Projekat\Projekat\obj\Debug\Projekat.pdb
